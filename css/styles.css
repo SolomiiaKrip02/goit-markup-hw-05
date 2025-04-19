@@ -658,7 +658,9 @@ img {
 
 }
 
-.modal-field {
+.modal-field,
+.modal-field-one,
+.modal-field-two {
     position: relative;
 }
 
@@ -713,10 +715,6 @@ img {
 
 .privacy-container {
     margin-bottom: 24px;
-}
-
-.privacy-input {
-
 }
 
 .privacy-label {
