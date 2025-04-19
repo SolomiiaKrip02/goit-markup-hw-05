@@ -519,9 +519,6 @@ img {
 
 .footer-form {
     display: flex;
-}
-
-.footer-lable {
     gap: 24px;
 }
 
