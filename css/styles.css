@@ -658,9 +658,7 @@ img {
 
 }
 
-.modal-field,
-.modal-field-one,
-.modal-field-two {
+.modal-field {
     position: relative;
 }
 
